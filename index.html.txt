@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mandalina Pastry</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; background-color: #f8f8f8; }
+        .container { max-width: 800px; margin: 0 auto; padding: 20px; }
+        .product { background: white; padding: 15px; margin: 10px; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+        .product img { width: 100%; border-radius: 8px; }
+        .btn { background-color: #ff5733; color: white; padding: 10px; border: none; cursor: pointer; border-radius: 5px; display: block; width: 100%; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Mandalina Pastry</h1>
+        <div class="product">
+            <img src="your-image.jpg" alt="کیک نمونه">
+            <h2>نام محصول</h2>
+            <p>توضیحات محصول اینجا قرار می‌گیرد.</p>
+            <button class="btn" onclick="window.location.href='https://zarinp.al/example'">خرید</button>
+        </div>
+    </div>
+</body>
+</html>
