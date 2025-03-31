@@ -16,8 +16,8 @@
     <div class="container">
         <h1>Mandalina Pastry</h1>
         <div class="product">
-            <img src="your-image.jpg" alt="کیک نمونه">
-            <h2>نام محصول</h2>
+            <img src="blob:https://web.whatsapp.com/a8e7e393-ea98-4491-85dd-bd9fd839d8d4" alt="کیک نمونه">
+            <h2>چیز کیک شکلات مینی</h2>
             <p>توضیحات محصول اینجا قرار می‌گیرد.</p>
             <button class="btn" onclick="window.location.href='https://zarinp.al/example'">خرید</button>
         </div>
